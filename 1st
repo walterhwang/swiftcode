@@ -1,0 +1,7 @@
+import UIkit
+var str = "Hello, playground"
+var myInteger = 170
+var myDouble = 55.2
+var yourDouble : Double = 33.9
+var msgGreeting = "안녕, 한글도 되나요?"
+var msgResult = msgGreeting + "당연, 되죠"
